@@ -11,5 +11,9 @@
     "ecmascript"
   ],
   "author": "Julian Avila <julianpedrazajf2@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
